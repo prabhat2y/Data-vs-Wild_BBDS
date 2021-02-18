@@ -1,0 +1,41 @@
+Reading data_vs_wild.csv file
+Find shape 
+Describe the data
+Replace "-" with "_"  from Data Column Name
+Created mushroom_features.csv # possibly looking to name function
+Need to find out how to replace code with value from Data dictonery 
+Need to find the loop through the dataframe to replace code feature with it's description - Prabhat
+Findings:
+	Only one numeric feature (Target variable)
+	There are values with "?" (require data cleaning)
+	There are not much statistical data - (All categorical data)
+	safe
+	count	1000000.000000
+	mean	0.004159
+	std	0.064356
+	min	0.000000
+	25%	0.000000
+	50%	0.000000
+	75%	0.000000
+	max	1.000000	
+	
+ 
+Questions:
+	visualize categorical data? (Bar chart, Histogram) - Ilham
+	look at mode of the categorical data
+	Look at the distribution
+	Look for skewness
+	Look for kurtosis
+	Detect outliers
+	Can we find correlation? (question for Mo)
+	Image processing for Mushroom (question for Mo) 
+
+Methods of encoding categorical Data - Tariq
+	Replacing values
+	Encoding labels
+	One Hot encoding
+	Binary encoding
+	Backward difference encoding
+	Miscellaneous features
+
+Create an account on github (to work on code as a team)
