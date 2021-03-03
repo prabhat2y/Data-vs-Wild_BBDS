@@ -1,0 +1,30 @@
+MoM - Data Vs Wild 
+Date: Mar 02
+-------------------------
+
+Data Understanding
+	- How many features
+		Number of Categorical features
+		Number of Numeric features
+		
+	- EDA
+		Data Cleaning
+		Missing Values
+		Finding constant features
+		
+	- Data visualization	
+		
+Data Quality Report
+
+In presention, 
+	Apendix slides in reference link
+	Answers to the descriptive quesions
+		One slide for visualization
+		One slide for Insights
+	
+-------------------------------------------
+Due date for presention is on March 11th
+
+Action Item
+------------
+Final presention will be made by March 9th
